@@ -1,3 +1,3 @@
 # its-git
 
-newline
+new branch
